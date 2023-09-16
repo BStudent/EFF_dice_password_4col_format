@@ -4,7 +4,7 @@ If  you don't know what dice-generated passphrases are, see: https://www.eff.org
 
 1. These pdf (and word .docx) have four columns per page, which means that _**each page corresponds to the first two rolls**_.
 2. Other than the handy format change, content is entirely copied from the `eff_large_wordlist.txt`, available at  https://www.eff.org/dice and included here for reference.  
-3. Here is original "diceware" page AFAIK: https://theworld.com/~reinhold/diceware.html - please see changelog below.
+3. Original "diceware" page AFAIK: https://theworld.com/~reinhold/diceware.html - please see changelog below.
 
 ## Contents
 
