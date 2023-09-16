@@ -1,0 +1,4 @@
+# added .gitignore because ... there's alwawsy something to ignore.
+diceware_special_characters.pdf
+/tmp
+.DS_Store
