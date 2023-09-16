@@ -1,11 +1,10 @@
-# EFF dice password lookup in more-usable 4-column format.
+# EFF roll-the-dice passphrase tables, more usable format.
 
-This is the word list for EFF.org diceware-style passwords, reformatted:
+If  you don't know what dice-generated passphrases are, see: https://www.eff.org/dice.  If you try using them more than once, you'll see why having the tables in this format is helpful.
 
-1. These pdf (and word .docx) have four columnd per page, so that _**each page corresponds to the first two rolls**_.
-2. Other than the handy format change, content is entirely copied from: https://www.eff.org/dice (as of 2020).  
-3. If you don't know what dice / diceware passwords are, see the above at EFF or the original here:
-	1. Original diceware page, AFAIK: https://theworld.com/~reinhold/diceware.html (see update/changelog at end!)
+1. These pdf (and word .docx) have four columns per page, which means that _**each page corresponds to the first two rolls**_.
+2. Other than the handy format change, content is entirely copied from the `eff_large_wordlist.txt`, available at  https://www.eff.org/dice and included here for reference.  
+3. Here is original "diceware" page AFAIK: https://theworld.com/~reinhold/diceware.html - please see changelog below.
 
 ## Contents
 
